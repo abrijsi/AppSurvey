@@ -169,7 +169,7 @@ const PickerMultiSelect = ({
               },
               {
                 id: '8',
-                name: 'Lain-lain',
+                name: 'Lain-lain1',
               },
             ]}
             uniqueKey="id"
